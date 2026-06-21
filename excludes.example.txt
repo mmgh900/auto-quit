@@ -1,0 +1,34 @@
+# Apps that should NEVER be auto-quit (one process name per line).
+# Copy this to excludes.txt and edit to taste. Lines are matched against the
+# macOS application *process* name (as shown by Activity Monitor).
+
+# System / shell
+Finder
+Dock
+SystemUIServer
+WindowManager
+ControlCenter
+NotificationCenter
+loginwindow
+Spotlight
+
+# Browsers
+Safari
+Google Chrome
+Arc
+Firefox
+Microsoft Edge
+Brave Browser
+
+# Editors / terminals
+Code
+Visual Studio Code
+Cursor
+Xcode
+Terminal
+iTerm2
+
+# Things you usually keep open
+1Password
+Spotify
+Music

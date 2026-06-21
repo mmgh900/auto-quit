@@ -1,0 +1,6 @@
+# personal state — never commit
+excludes.txt
+enabled
+last-seen.tsv
+*.log
+.DS_Store
